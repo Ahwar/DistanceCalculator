@@ -23,3 +23,10 @@ By using the coordinates (x1, y1) representing the right most point on the trian
 We can use a^2 + b^2 = c^2 to determine the distance between two points.
 
 > **Lines 114 - 215 in Car_Detection_and_Color.py** 
+
+## Reference:  
+This code was modified by this stage by me, the orginal work was taken from:  
+- https://github.com/Tyler-Odenthal/Car_Distance_Project
+
+Read about it:
+- https://blog.roboflow.com/computer-vision-measure-distance/
